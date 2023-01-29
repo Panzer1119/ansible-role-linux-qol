@@ -1,2 +1,7 @@
 ---
 # tasks file for linux-qol
+#TODO Create QoL Tasks e.g.:
+# - Install exa and set it up (alias lsa) for a non-root user (configurable, use the same
+#   variable for it that is used in linux-security so that they both target the same user)
+# - Maybe set up this special shell that comes with "plugins" etc.?
+# - Create directories in its home "scripts", "temp" etc.
